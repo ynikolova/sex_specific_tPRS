@@ -85,5 +85,3 @@ A manuscript citation and repository DOI are not yet specified. When available, 
 The repository code and documentation are provided under the [MIT License](LICENSE). This permits use, modification, and redistribution, including commercial use, provided the copyright and permission notices are retained. The software is provided without warranty.
 
 This license does not grant access to participant-level data or replace the terms governing those data. External R packages remain subject to their respective licenses.
-
-The copyright-holder field in `LICENSE` must be completed by the repository maintainers before publication.
