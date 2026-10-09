@@ -78,7 +78,7 @@ Static checks confirmed that the cleanup preserved executable analysis statement
 
 ## Citation
 
-A manuscript citation and repository DOI are not yet specified. When available, add them here so users can cite the associated study and the version of the code used.
+A manuscript citation and repository DOI are not yet specified. When available, we will add them here so users can cite the associated study and the version of the code used.
 
 ## License
 
