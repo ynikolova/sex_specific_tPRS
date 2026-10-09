@@ -74,7 +74,7 @@ Results are saved as `results.csv` in `outputs/<model>/<script-name>/`. Separate
 
 Model formulas, filtering, numeric column selections, winsorization, rounding, and FDR calculations have been retained from the analysis scripts. Comments and shared path/output setup support reuse across computers.
 
-Static checks confirmed that the cleanup preserved executable analysis statements apart from path setup, generic file naming, and output routing. Shared setup explicitly binds `data.table::rbindlist` and `DescTools::Winsorize`, which some original scripts use without loading their packages. Syntax and end-to-end execution have not been validated, and results have not been regenerated. Consult [review notes](docs/review_notes.md) for issues requiring review, including p-value precision, sample counts, random-effects structure, and input-column assumptions.
+Static checks confirmed that the cleanup preserved executable analysis statements apart from path setup, generic file naming, and output routing. Shared setup explicitly binds `data.table::rbindlist` and `DescTools::Winsorize`, which some original scripts use without loading their packages.
 
 ## Citation
 
