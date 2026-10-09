@@ -1,0 +1,11 @@
+input_data/*
+!input_data/README.md
+outputs/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+.env
+*.pem
